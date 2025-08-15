@@ -1,4 +1,4 @@
-![image](/img/github-header-banner.png)
+![image](/img/github-header-banner2.png)
 Moshi-Moshi I'm Revan Azra AKA Mohamad Revan Gibran Azraafi, I'm a newbie junior developer, I'm just basically learning a javascript and other language code.<br><br>🔭 I’m currently working on Home(freelance)<br>🌱 I’m currently learning Javascript framework, php, database.<br>💬 Ask me about Everything you can ask from me
 
 #### 🌐 Socials:
